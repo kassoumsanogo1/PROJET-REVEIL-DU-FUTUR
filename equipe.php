@@ -162,45 +162,45 @@
     </div>
     <div class="member">
         <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
-        <h3>Jean Dupont</h3>
-        <span>jean.dupont@university.edu</span>
-        <p>Directeur Technique - Spécialiste en intégration système avec plus de 10 ans d'expérience.</p>
+        <h3>Antoine Riaublanc</h3>
+        <span>Antoine.Riaublanc.Etu@univ-lemans.fr</span>
+        <p>Developpeur - site web / Notices. </p>
     </div>
     <div class="member">
         <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
-        <h3>Jean Dupont</h3>
-        <span>jean.dupont@university.edu</span>
-        <p>Directeur Technique - Spécialiste en intégration système avec plus de 10 ans d'expérience.</p>
+        <h3>Antoine Beaugas</h3>
+        <span>Antoine.Beaugas.Etu@univ-lemans.fr</span>
+        <p>Responsable équipe Electronique / PCB </p>
     </div>
     <div class="member">
         <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
-        <h3>Jean Dupont</h3>
-        <span>jean.dupont@university.edu</span>
-        <p>Directeur Technique - Spécialiste en intégration système avec plus de 10 ans d'expérience.</p>
+        <h3>Emmanuel Koblan</h3>
+        <span>Emmanuel.Koblan.Etu@univ-lemans.fr</span>
+        <p>Concepteur PCB</p>
     </div>
     <div class="member">
         <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
-        <h3>Jean Dupont</h3>
-        <span>jean.dupont@university.edu</span>
-        <p>Directeur Technique - Spécialiste en intégration système avec plus de 10 ans d'expérience.</p>
+        <h3>Baptise Foucras</h3>
+        <span>Foucras.Baptise.Etu@univ-lemans.fr</span>
+        <p>Developpeur - Bouton Rotatif </p>
     </div>
     <div class="member">
         <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
-        <h3>Jean Dupont</h3>
-        <span>jean.dupont@university.edu</span>
-        <p>Directeur Technique - Spécialiste en intégration système avec plus de 10 ans d'expérience.</p>
+        <h3>Alexis Roudin</h3>
+        <span>Alexis.Roudin.Etu@univ-lemans.fr</span>
+        <p>Developpeur - Bouton Rotatif. </p>
     </div>
     <div class="member">
         <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
-        <h3>Jean Dupont</h3>
-        <span>jean.dupont@university.edu</span>
-        <p>Directeur Technique - Spécialiste en intégration système avec plus de 10 ans d'expérience.</p>
+        <h3>Cottineau Estiban</h3>
+        <span>Estiban.Cottineau.Etu@univ-lemans.fr</span>
+        <p>Responsable CAO / Responsable Gestion de projet / Fixation Cote - Assemblage Final - Ajustement sur les pièces.</p>
     </div>
     <div class="member">
         <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
-        <h3>Jean Dupont</h3>
-        <span>jean.dupont@university.edu</span>
-        <p>Directeur Technique - Spécialiste en intégration système avec plus de 10 ans d'expérience.</p>
+        <h3>Djouma Aubin</h3>
+        <span>Gauthier.Djouma.Etu@univ-lemans.fr</span>
+        <p>Concepteur  CAO - Face Arrière / Avant / boutton de réglage </p>
     </div>
     <div class="member">
         <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
