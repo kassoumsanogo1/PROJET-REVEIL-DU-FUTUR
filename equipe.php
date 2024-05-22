@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+/*-------------------*/
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -7,11 +8,11 @@
     <style>
         body {
             font-family: 'Arial', sans-serif;
-            margin: 0;   
+            margin: 0;
             padding: 0;
             background: #f4f4f4;
             color: #333;
-        }   
+        }
         nav {
             background: #ffffff; /* Beige */
             padding: 15px 0; /* Augmentation de la taille */
@@ -53,7 +54,7 @@
         .team {
             display: flex;
             flex-wrap: wrap;
-            justify-content: center; 
+            justify-content: center;
             padding: 20px;
         }
         .member, .professor {
@@ -129,35 +130,35 @@
 <div class="team">
     <!-- Exemple de blocs pour chaque membre de l'équipe -->
     <div class="professor">
-        <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Dr. John Smith - john.smith@university.edu" onclick="openModal(this.src, this.alt)">
-        <h3>Dr. John Smith</h3>
-        <span>john.smith@university.edu</span>
-        <p>Professeur et superviseur du projet - Spécialiste en technologies éducatives.</p>
+        <img src="https://i.ibb.co/dbpwjt1/IMG-20240522-164418.jpg" alt="Dr. John Smith - john.smith@university.edu" onclick="openModal(this.src, this.alt)">
+        <h3>Pr. Matthieu Milharo</h3>
+        <span>Matthieu.Milharo@univ-lemans.fr</span>
+        <p>Professeur et superviseur du projet.</p>
     </div>
 
     <div class="member">
-        <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
-        <h3>Jean Dupont</h3>
-        <span>jean.dupont@university.edu</span>
-        <p>Directeur Technique - Spécialiste en intégration système avec plus de 10 ans d'expérience.</p>
+        <img src="https://i.ibb.co/0MtB00w/IMG-20240522-160832.jpg" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
+        <h3>Sanogo Kassoum</h3>
+        <span>Sanogo.Kassoum.Etu@univ-lemans.fr</span>
+        <p>Responsable Notices et Co-responsable Développement Site Web. </p>
+    </div>
+    <div class="member">
+        <img src="https://i.ibb.co/0jBVKXk/IMG-20240522-160759.jpg" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
+        <h3>Youssef Ermadi</h3>
+        <span>Youssef.Ermadi.Etu@univ-lemans.fr</span>
+        <p>Developpeur - site web / Notices. </p>
+    </div>
+    <div class="member">
+        <img src="https://i.ibb.co/ngjbgZT/IMG-20240522-161733.jpg" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
+        <h3>Iheb Ben Jemaa</h3>
+        <span>Iheb.Ben_Jemaa.Etu@univ-lemans.fr</span>
+        <p>Responsable Développement Site Web, Responsable Gestion de Projet / Notices. </p>
     </div>
     <div class="member">
         <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
-        <h3>Jean Dupont</h3>
-        <span>jean.dupont@university.edu</span>
-        <p>Directeur Technique - Spécialiste en intégration système avec plus de 10 ans d'expérience.</p>
-    </div>
-    <div class="member">
-        <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
-        <h3>Jean Dupont</h3>
-        <span>jean.dupont@university.edu</span>
-        <p>Directeur Technique - Spécialiste en intégration système avec plus de 10 ans d'expérience.</p>
-    </div>
-    <div class="member">
-        <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
-        <h3>Jean Dupont</h3>
-        <span>jean.dupont@university.edu</span>
-        <p>Directeur Technique - Spécialiste en intégration système avec plus de 10 ans d'expérience.</p>
+        <h3>Aya Barbare</h3>
+        <span>Aya.Barbare.Etu@univ-lemans.fr</span>
+        <p>Developpeur - site web / Notices. </p>
     </div>
     <div class="member">
         <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
