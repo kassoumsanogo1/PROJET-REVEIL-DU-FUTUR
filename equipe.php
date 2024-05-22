@@ -130,16 +130,16 @@
     <!-- Exemple de blocs pour chaque membre de l'équipe -->
     <div class="professor">
         <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Dr. John Smith - john.smith@university.edu" onclick="openModal(this.src, this.alt)">
-        <h3>Dr. John Smith</h3>
-        <span>john.smith@university.edu</span>
-        <p>Professeur et superviseur du projet - Spécialiste en technologies éducatives.</p>
+        <h3>Pr. Matthieu Milharo</h3>
+        <span>matthieu.milharo@univ-lemans.fr</span>
+        <p>Professeur et superviseur du projet.</p>
     </div>
 
     <div class="member">
         <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
-        <h3>Jean Dupont</h3>
-        <span>jean.dupont@university.edu</span>
-        <p>Directeur Technique - Spécialiste en intégration système avec plus de 10 ans d'expérience.</p>
+        <h3> Antoine Beaugas</h3>
+        <span> antoine.beaugas@univ-lemans.fr</span>
+        <p>Responsable de l'équipe electronique.</p>
     </div>
     <div class="member">
         <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
