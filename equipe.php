@@ -53,7 +53,7 @@
         .team {
             display: flex;
             flex-wrap: wrap;
-            justify-content: center;
+            justify-content: center; 
             padding: 20px;
         }
         .member, .professor {
