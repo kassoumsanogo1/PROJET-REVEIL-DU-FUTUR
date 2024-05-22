@@ -11,7 +11,7 @@
             padding: 0;
             background: #f4f4f4;
             color: #333;
-        }
+        }   
         nav {
             background: #ffffff; /* Beige */
             padding: 15px 0; /* Augmentation de la taille */
