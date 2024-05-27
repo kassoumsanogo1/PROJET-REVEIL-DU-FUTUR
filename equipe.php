@@ -204,24 +204,16 @@
     </div>
     <div class="member">
         <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
-        <h3>Jean Dupont</h3>
-        <span>jean.dupont@university.edu</span>
-        <p>Directeur Technique - Spécialiste en intégration système avec plus de 10 ans d'expérience.</p>
+            <h3>Killian Picot</h3>
+        <span>Killian.picot.Etu@univ-lemans.fr</span>
+        <p>Responsable Code / CAO / Developpeur code horloge, affichage et interface .</p>
     </div>
     <div class="member">
         <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
-        <h3>Jean Dupont</h3>
-        <span>jean.dupont@university.edu</span>
-        <p>Directeur Technique - Spécialiste en intégration système avec plus de 10 ans d'expérience.</p>
+        <h3>Lamere Yvan-Laurent</h3>
+        <span>Yvan.Njimagbamboue_Lamere.Etu@univ-lemans.fr</span>
+        <p>CAO / PLA / face de coté , button face dessus (fixation) / Aide Assemblage .</p>
     </div>
-    <div class="member">
-        <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
-        <h3>Jean Dupont</h3>
-        <span>jean.dupont@university.edu</span>
-        <p>Directeur Technique - Spécialiste en intégration système avec plus de 10 ans d'expérience.</p>
-    </div>
-
-
     <!-- Répétez et modifiez le contenu pour les autres membres -->
     <!-- Assurez-vous d'avoir des images de profil appropriées et des descriptions pour chaque membre -->
 </div>
