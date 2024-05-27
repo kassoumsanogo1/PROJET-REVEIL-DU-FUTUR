@@ -149,13 +149,13 @@
         <p>Developpeur - site web / Notices. </p>
     </div>
     <div class="member">
-        <img src="https://i.ibb.co/ngjbgZT/IMG-20240522-161733.jpg" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
+        <img src="https://i.ibb.co/P13fV0d/IMG-20240527-104127.jpg" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
         <h3>Iheb Ben Jemaa</h3>
         <span>Iheb.Ben_Jemaa.Etu@univ-lemans.fr</span>
         <p>Responsable Développement Site Web, Responsable Gestion de Projet / Notices. </p>
     </div>
     <div class="member">
-        <img src="https://i.ibb.co/mNryshd/IMG-7433.jpg" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
+        <img src="https://i.ibb.co/hgyyP72/IMG-20240527-103707.jpg" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
         <h3>Aya Barbare</h3>
         <span>Aya.Barbare.Etu@univ-lemans.fr</span>
         <p>Developpeur - site web / Notices. </p>
