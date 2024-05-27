@@ -167,49 +167,49 @@
         <p>Developpeur - site web / Notices. </p>
     </div>
     <div class="member">
-        <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
+        <img src="https://i.ibb.co/3v8mLKp/IMG-20240522-160819.jpg" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
         <h3>Antoine Beaugas</h3>
         <span>Antoine.Beaugas.Etu@univ-lemans.fr</span>
         <p>Responsable équipe Electronique / PCB </p>
     </div>
     <div class="member">
-        <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
+        <img src="https://i.ibb.co/Njjj8Bq/IMG-20240522-161021.jpg" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
         <h3>Emmanuel Koblan</h3>
         <span>Emmanuel.Koblan.Etu@univ-lemans.fr</span>
         <p>Concepteur PCB</p>
     </div>
     <div class="member">
-        <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
+        <img src="https://i.ibb.co/C6gsyxG/IMG-20240522-160433.jpg" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
         <h3>Baptise Foucras</h3>
         <span>Foucras.Baptise.Etu@univ-lemans.fr</span>
         <p>Developpeur - Bouton Rotatif </p>
     </div>
     <div class="member">
-        <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
+        <img src="https://i.ibb.co/C0QmxDW/IMG-20240522-160720.jpg" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
         <h3>Alexis Roudin</h3>
         <span>Alexis.Roudin.Etu@univ-lemans.fr</span>
         <p>Developpeur - Bouton Rotatif. </p>
     </div>
     <div class="member">
-        <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
+        <img src="https://i.ibb.co/QXWSzrr/IMG-20240522-160344.jpg" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
         <h3>Cottineau Estiban</h3>
         <span>Estiban.Cottineau.Etu@univ-lemans.fr</span>
         <p>Responsable CAO / Responsable Gestion de projet / Fixation Cote - Assemblage Final - Ajustement sur les pièces.</p>
     </div>
     <div class="member">
-        <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
-        <h3>Djouma Aubin</h3>
+        <img src="https://i.ibb.co/WgTbQPS/IMG-20240522-160907.jpg" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
+        <h3>Gauthier Djouma</h3>
         <span>Gauthier.Djouma.Etu@univ-lemans.fr</span>
         <p>Concepteur  CAO - Face Arrière / Avant / boutton de réglage </p>
     </div>
     <div class="member">
-        <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
+        <img src="https://i.ibb.co/X3G4Qbg/IMG-20240522-160735.jpg" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
             <h3>Killian Picot</h3>
         <span>Killian.picot.Etu@univ-lemans.fr</span>
         <p>Responsable Code / CAO / Developpeur code horloge, affichage et interface .</p>
     </div>
     <div class="member">
-        <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
+        <img src="https://i.ibb.co/KLfrjcg/IMG-20240522-160703.jpg" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
         <h3>Lamere Yvan-Laurent</h3>
         <span>Yvan.Njimagbamboue_Lamere.Etu@univ-lemans.fr</span>
         <p>CAO / PLA / face de coté , button face dessus (fixation) / Aide Assemblage .</p>
