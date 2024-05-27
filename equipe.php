@@ -155,13 +155,13 @@
         <p>Responsable Développement Site Web, Responsable Gestion de Projet / Notices. </p>
     </div>
     <div class="member">
-        <img src="https://i.ibb.co/hgyyP72/IMG-20240527-103707.jpg" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
+        <img src="https://i.ibb.co/L1FM9FY/IMG-20240527-112203.jpg" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
         <h3>Aya Barbare</h3>
         <span>Aya.Barbare.Etu@univ-lemans.fr</span>
         <p>Developpeur - site web / Notices. </p>
     </div>
     <div class="member">
-        <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
+        <img src="https://i.ibb.co/w73MWN0/IMG-20240522-160845.jpg" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
         <h3>Antoine Riaublanc</h3>
         <span>Antoine.Riaublanc.Etu@univ-lemans.fr</span>
         <p>Developpeur - site web / Notices. </p>
