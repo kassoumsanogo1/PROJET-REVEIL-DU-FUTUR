@@ -69,8 +69,10 @@
         }
         .features {
             display: flex;
+            flex-wrap: wrap;
             justify-content: space-around;
             padding: 50px;
+            margin-top: 90px; /* Ajout de la marge supérieure pour compenser la nav fixe */
         }
         .feature {
             background: white;
@@ -78,6 +80,18 @@
             border-radius: 8px;
             width: 30%;
             box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+            box-sizing: border-box;
+        }
+        @media (max-width: 768px) {
+            .feature {
+                width: 45%;
+            }
+        }
+        @media (max-width: 480px) {
+            .feature {
+                width: 100%;
+            }
         }
         .testimonials {
             background: white;
@@ -112,6 +126,22 @@
         .discover-button:hover {
             background-color: #0077cc; /* Un bleu légèrement plus clair au survol */
         }
+        .downloads {
+            margin-top: 20px;
+        }
+        .downloads a {
+            display: block;
+            margin: 10px 0;
+            padding: 10px;
+            background: #0056b3;
+            color: white;
+            text-align: center;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+        .downloads a:hover, .downloads a:focus {
+            background: #004494;
+        }
 
     </style>
 </head>
@@ -130,20 +160,27 @@
     <h1>Bienvenue à l'ère du réveil innovant</h1>
     <p>Explorez toutes les fonctionnalités et commencez votre journée du bon pied!</p>
 </div>
+
+<div class="downloads">
+    <h2>Documents à Télécharger au format .pdf</h2>
+    <a href="docs/notice_utilisateur.pdf" download="Notice Utilisateur - Réveil du Futur.pdf">Télécharger la Notice Utilisateur</a>
+    <a href="docs/notice_technique.pdf" download="Notice Technique - Réveil du Futur.pdf">Télécharger la Notice Technique</a>
+</div>
+
 <div class="features" id="details">
     <?php
     $features = [
-        ['title' => 'Facile à utiliser', 'description' => 'Une Interface utilisateur intuitive pour les grands et les petits.',
+        ['title' => 'Facile à utiliser', 'description' => 'Assemblage d\'une Interface utilisateur intuitive pour les grands et les petits.',
             'button' => true,
-            'image' => 'https://i.ibb.co/wh2sMXj/h2.jpg'  // Remplacez par l'URL de votre image réelle
+            'image' => 'https://i.ibb.co/gRgGb3G/IMG-20240602-132105-1.jpg'  // Remplacez par l'URL de votre image réelle
         ],
-        ['title' => 'Design moderne', 'description' => 'Un design élégant qui s\'adapte parfaitement à votre chambre.',
+        ['title' => 'Technologie moderne', 'description' => 'Une technologie élégante qui s\'adapte parfaitement à votre réveil.',
             'button' => true,
-            'image' => 'https://i.ibb.co/WnVPGx6/h3.jpg'  // Remplacez par l'URL de votre image réelle
+            'image' => 'https://i.ibb.co/wr9Xg6J/PCBConception.png'  // Remplacez par l'URL de votre image réelle
         ],
-        ['title' => 'Technologie avancée', 'description' => 'Incorporant des fonctions intelligentes pour un réveil sur mesure.',
+        ['title' => 'Tests avancés', 'description' => 'Incorporant des fonctions intelligentes pour un réveil sur mesure.',
             'button' => true,
-            'image' => 'https://i.ibb.co/VJcC2hT/h1.jpg'  // Remplacez par l'URL de votre image réelle
+            'image' => 'https://i.ibb.co/wsqnkF8/IMG-20240530-173304.jpg'  // Remplacez par l'URL de votre image réelle
         ]
     ];
 
@@ -163,11 +200,11 @@
 <div class="testimonials">
     <h2>Témoignages</h2>
     <div class="testimonial">
-        <p>"Le meilleur réveil que j'ai jamais utilisé. Révolutionnaire!" - Jean Dupont</p>
+        <p>"Le meilleur réveil que j'ai jamais utilisé. Révolutionnaire!" - Kassoum Sanogo</p>
     </div>
 </div>
 <footer>
-    <p>Contactez-nous: info@lereveildufutur.com</p>
+    <p>ENSIM - Le Réveil du Futur © 2024</p>
 </footer>
 </body>
 </html>
