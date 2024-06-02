@@ -78,6 +78,22 @@
             width: 50%;
             border-radius: 8px;
         }
+        .downloads {
+            margin-top: 20px;
+        }
+        .downloads a {
+            display: block;
+            margin: 10px 0;
+            padding: 10px;
+            background: #0056b3;
+            color: white;
+            text-align: center;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+        .downloads a:hover, .downloads a:focus {
+            background: #004494;
+        }
     </style>
 </head>
 <body>
@@ -103,19 +119,20 @@
         <ul>
             <li>Interface utilisateur intuitive et écran tactile.</li>
             <li>Connexion Bluetooth pour une intégration avec d'autres appareils domestiques.</li>
-            <li>Capteurs de lumière pour un réveil en douceur avec simulation de l'aube.</li>
-            <li>Application mobile dédiée pour une personnalisation complète des alarmes.</li>
+            <li>Afficher l'heure</li>
+            <li>Mise à jour de l’heure automatique via le réseau Wifi</li>
+            <li>Alarme : 1 sonnerie (option: répétitive ou pas)</li>
         </ul>
     </section>
 
     <section class="technical-details">
         <h2>Détails Techniques</h2>
-        <ul>
-            <li>Dimensions: 120mm x 80mm x 60mm</li>
-            <li>Poids: 400g</li>
-            <li>Batterie: Lithium-ion rechargeable avec une autonomie de 7 jours</li>
-            <li>Garantie: 2 ans</li>
-        </ul>
+
+        <div class="downloads">
+            <h2>Documents à Télécharger au format .pdf</h2>
+            <a href="docs/notice_utilisateur.pdf" download="Notice Utilisateur - Réveil du Futur.pdf">Télécharger la Notice Utilisateur</a>
+            <a href="docs/notice_technique.pdf" download="Notice Technique - Réveil du Futur.pdf">Télécharger la Notice Technique</a>
+        </div>
     </section>
 
     <section class="expert-reviews">
@@ -124,12 +141,12 @@
     </section>
 
     <div class="image">
-        <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Réveil du Futur">
+        <img src="https://i.ibb.co/wsqnkF8/IMG-20240530-173304.jpg" alt="Réveil du Futur">
     </div>
 </div>
 
 <footer>
-    <p>Contactez-nous: info@lereveildufutur.com</p>
+    <p>ENSIM - Le Réveil du Futur © 2024</p>
 </footer>
 </body>
 </html>
