@@ -124,21 +124,14 @@
     </div>
     <div class="contact-info">
         <p>Vous pouvez aussi nous joindre par téléphone ou visiter nos locaux :</p>
-        <p>Téléphone : +33 1 23 45 67 89</p>
-        <p>Adresse : 123 Avenue de l'Innovation, 75000 Paris, France</p>
+        <p>Téléphone : +33 2 43 83 35 93</p>
+        <p>Adresse : 1 Rue Aristote, 72000 Le Mans, France</p>
     </div>
-    <div class="map">
-        <iframe
-            width="100%"
-            height="400"
-            frameborder="0" style="border:0"
-            src="https://www.google.com/maps/embed/v1/place?key=YOUR_API_KEY&q=Space+Needle,Seattle+WA" allowfullscreen>
-        </iframe>
-    </div>
+
 </div>
 
 <footer>
-    <p>Le Réveil du Futur © 2024</p>
+    <p>ENSIM - Le Réveil du Futur © 2024</p>
 </footer>
 </body>
 </html>
