@@ -125,13 +125,22 @@
 <div class="gallery">
     <!-- Exemples d'images, remplacez les URLs par vos propres images -->
     <div class="photo" onclick="openModal(this.children[0].src)">
-        <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Réveil du Futur 1">
+        <img src="https://i.ibb.co/wr9Xg6J/PCBConception.png" alt="Réveil du Futur 1">
     </div>
     <div class="photo" onclick="openModal(this.children[0].src)">
-        <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Réveil du Futur 2">
+        <img src="https://i.ibb.co/Lk7R55J/IMG-20240602-132105.jpg" alt="Réveil du Futur 2">
     </div>
     <div class="photo" onclick="openModal(this.children[0].src)">
-        <img src="https://i.ibb.co/HDBf4yc/horloge.png" alt="Réveil du Futur 3">
+        <img src="https://i.ibb.co/6sp11Pb/IMG-20240602-144207-1.jpg" alt="Réveil du Futur 3">
+    </div>
+    <div class="photo" onclick="openModal(this.children[0].src)">
+        <img src="https://i.ibb.co/0yhV7Zh/IMG-20240527-110527.jpg" alt="Réveil du Futur 1">
+    </div>
+    <div class="photo" onclick="openModal(this.children[0].src)">
+        <img src="https://i.ibb.co/wsqnkF8/IMG-20240530-173304.jpg" alt="Réveil du Futur 2">
+    </div>
+    <div class="photo" onclick="openModal(this.children[0].src)">
+        <img src="https://i.ibb.co/gRgGb3G/IMG-20240602-132105-1.jpg" alt="Réveil du Futur 3">
     </div>
 </div>
 
@@ -141,7 +150,7 @@
 </div>
 
 <footer>
-    <p>Contactez-nous: info@lereveildufutur.com</p>
+    <p>ENSIM - Le Réveil du Futur © 2024</p>
 </footer>
 
 <script>
