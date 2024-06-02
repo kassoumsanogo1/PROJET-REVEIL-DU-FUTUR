@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-/*-------------------*/
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -66,6 +65,8 @@
             box-shadow: 0 4px 8px rgba(0,0,0,0.1);
             border-radius: 10px;
             text-align: center;
+            box-sizing: border-box;
+
         }
         .professor {
             border: 3px solid #0056b3; /* Distinct border to highlight */
@@ -114,6 +115,25 @@
             color: #000;
             text-decoration: none;
         }
+
+
+        @media (max-width: 1200px) {
+            .member, .professor {
+                width: calc(33.33% - 40px);
+            }
+        }
+
+        @media (max-width: 992px) {
+            .member, .professor {
+                width: calc(50% - 40px);
+            }
+        }
+
+        @media (max-width: 768px) {
+            .member, .professor {
+                width: calc(100% - 40px);
+            }
+        }
     </style>
 </head>
 <body>
@@ -128,7 +148,6 @@
     <a href="contact.php">Contact</a>
 </nav>
 <div class="team">
-    <!-- Exemple de blocs pour chaque membre de l'équipe -->
     <div class="professor">
         <img src="https://i.ibb.co/dbpwjt1/IMG-20240522-164418.jpg" alt="Dr. John Smith - john.smith@university.edu" onclick="openModal(this.src, this.alt)">
         <h3>Pr. Matthieu Milharo</h3>
@@ -139,8 +158,8 @@
     <div class="member">
         <img src="https://i.ibb.co/0MtB00w/IMG-20240522-160832.jpg" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
         <h3>Sanogo Kassoum</h3>
-        <span>Sanogo.Kassoum.Etu@univ-lemans.fr</span>
-        <p>Responsable Notices et Co-responsable Développement Site Web. </p>
+        <span>Kassoum.Sanogo.Etu@univ-lemans.fr</span>
+        <p>Responsable Notices et Responsable Développement Site Web. </p>
     </div>
     <div class="member">
         <img src="https://i.ibb.co/0jBVKXk/IMG-20240522-160759.jpg" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
@@ -204,7 +223,7 @@
     </div>
     <div class="member">
         <img src="https://i.ibb.co/X3G4Qbg/IMG-20240522-160735.jpg" alt="Jean Dupont - jean.dupont@university.edu" onclick="openModal(this.src, this.alt)">
-            <h3>Killian Picot</h3>
+        <h3>Killian Picot</h3>
         <span>Killian.picot.Etu@univ-lemans.fr</span>
         <p>Responsable Code / CAO / Developpeur code horloge, affichage et interface .</p>
     </div>
@@ -225,7 +244,7 @@
 </div>
 
 <footer>
-    <p>&copy; 2024 Notre Société. Tous droits réservés.</p>
+    <p>ENSIM - Le Réveil du Futur © 2024</p>
 </footer>
 
 <script>
